@@ -10,7 +10,7 @@
 ## About Me
 - **Student ID**: xiaoyu961006
 - **Student Name**: 余觀正
-- **Student E-mail**: [余觀正](xiaoyu961006@mail.yzu.edu.tw)
+- **Student E-mail**:V0921190773@gmail.com
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
